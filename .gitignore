@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Course materials (copyrighted)
+*.pdf
+
+# Datasets & model weights (usually too large for GitHub)
+data/
+datasets/
+*.pt
+*.pth
+*.ckpt
