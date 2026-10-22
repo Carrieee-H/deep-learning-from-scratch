@@ -1,3 +1,4 @@
+#多分类问题
 import torch
 from torchvision import transforms  #针对图像数据的预处理
 from torchvision import datasets
